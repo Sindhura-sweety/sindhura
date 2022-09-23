@@ -17,16 +17,16 @@ print("%.2f"%n)
 
 #Character Input
 n=input()
-print(n)#python
+print(n)
 
 #String Input
 n=input()
-print(n)#python
+print(n)
 
 #Ascii-I
-n=input()#python
+n=input()
 print(ord(n))
 
 #Ascii-II
 n=int(input())
-print(chr(n))#python
+print(chr(n))
